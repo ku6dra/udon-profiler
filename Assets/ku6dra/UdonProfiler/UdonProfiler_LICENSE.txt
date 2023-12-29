@@ -1,0 +1,3 @@
+* UdonProfiler
+Copyright (c) 2023 ku6dra
+Released under the MIT License. see https://opensource.org/licenses/MIT
